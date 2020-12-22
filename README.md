@@ -12,7 +12,10 @@
 后端：nodeJs + express + mysql
 
 
-
+#项目启动
+1，将sql中的sql数据导入到数据库
+2，修改server/db/index.js中数据库连接池配置
+3，前端：npm run dev   后台：node app.js
 
 
 
